@@ -1,0 +1,9 @@
+@charset "utf-8";
+
+.dailyKJVerses.linkToWebsite a
+{
+	color:#999; 
+	font-size:18px;
+	text-decoration:none;
+	font-style:italic;
+}
