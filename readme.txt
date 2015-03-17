@@ -3,7 +3,7 @@ Contributors: L.Ch.Rajkumar
 Donate Link: http://www.skrilleshopplugin.com/membership/
 Tags: daily christian verses, king james bible verses
 Requires at least: 3.0 and above
-Tested up to: 3.9.1
+Tested up to: 4.1.1
 Stable Tag: 1.0
 Version: 1.0
 License: GPLv2 or Later
@@ -21,8 +21,8 @@ Features:
 3. Can be added as Widget or use shortcode to display the Verses.
 
 == Installation ==
-1. Gain Access to the plugin by taking membership from http://www.skrilleshopplugin.com/membership/.
-2. Once membership is confirmed, download the plugin & upload it to your site using FTP.
+1. Download the plugin from WordPress plugin repository.
+2. Install the plugin into your site.
 3. Activate the plugin via WP ADMIN DASHBOARD.
 4. Add shortcode as ' [dailychristianbibleverse] ' in wordpress post or page.
 5. Add 'Daily Christian Bible Verse' widget to Sidebar of your WordPress website.
