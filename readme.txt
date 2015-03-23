@@ -1,6 +1,6 @@
 === DAILY CHRISTIAN BIBLE VERSES ===
 Contributors: L.Ch.Rajkumar
-Donate Link: http://www.skrilleshopplugin.com/membership/
+Donate Link: 
 Tags: daily christian verses, king james bible verses
 Requires at least: 3.0 and above
 Tested up to: 4.1.1
