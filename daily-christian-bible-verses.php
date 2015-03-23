@@ -1,14 +1,14 @@
 <?php
 /*
 Plugin Name: Daily Christian Bible Verses
-Plugin URI: http://www.skrilleshopplugin.com/membership/
+Plugin URI: 
 Description: Daily Christian Bible Verses for your reading from King James Version BIBLE to get Spiritual Growth for you on ALMIGHTY GOD using your WordPress Website.
 Version: 1.0
 Author: L.Ch.Rajkumar
 Author URI: https://profiles.wordpress.org/lchrajkumar
 License: GPL2
 
-  Copyright 2014  L.Ch.Rajkumar  (email : lchrajkumar@live.in)
+  Copyright 2014-2015  L.Ch.Rajkumar  (email : lchrajkumar@live.in)
 
     This program is free software; you can redistribute it and/or modify
     it under the terms of the GNU General Public License, version 2, as 
